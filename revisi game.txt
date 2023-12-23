@@ -1,0 +1,4 @@
+- tombol on/off music
+- tulisan materi di perbesar
+- pengaturan tombol ketika bermain
+  

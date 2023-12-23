@@ -1,0 +1,18 @@
+Apa nama hewan yang memiliki garis-garis hitam dan putih serta hidup di hutan bambu?;
+Harimau;
+Zebra;
+Gajah;
+Zebra;
+|
+Hewan yang memiliki leher panjang dan cakar tajam, serta dapat mematuk mangsanya. Siapakah dia?;
+Harimau;
+Kerbau;
+Zebra;
+Harimau;
+|
+Hewan apa yang memiliki belalai panjang dan cenderung hidup di daerah tropis?;
+Sapi;
+Kerbau;
+Gajah;
+Gajah;
+|
